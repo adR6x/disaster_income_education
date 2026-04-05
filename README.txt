@@ -1,7 +1,7 @@
 This folder contains all the scripts for replication of paper-
 
 "Disaster Exposure as an Instrument: Evaluating Income Effects on Education in Nepal"
-Overleaf view link: https://www.overleaf.com/read/byttgnshfhtz#0a84f4
+Overleaf view link: Please email me for draft
 
 The folder and files are maintained as follows:
 
